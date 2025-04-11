@@ -10,7 +10,7 @@ This project is based on the paper [Cross-validation: what does it estimate and 
 
 ## Experiments
 
-Experiments demonstrating these features can be found in the [early_stopping_experiments.ipynb](https://github.com/Ohadeinav/nested_cv_project/blob/SUBMIT_BRANCH/early_stopping_experiments.ipynb) notebook.
+Experiments demonstrating these features can be found in the [early_stopping_experiments.ipynb](https://github.com/noy-shargal/nested_cross_validation/blob/master/early_stopping_experiments.ipynb) notebook.
 
 
 ## Usage
